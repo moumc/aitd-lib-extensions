@@ -1,6 +1,6 @@
 {
-  "name": "ripple-lib-transactionparser",
-  "version": "0.8.2",
+  "name": "aitd-lib-transactionparser",
+  "version": "0.0.1",
   "description": "Parses transaction objects to a higher-level view",
   "license": "ISC",
   "scripts": {
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ripple/ripple-lib-extensions.git"
+    "url": "https://github.com/moumc/aitd-lib-extensions.git"
   },
   "main": "src/index.js",
   "keywords": [
-    "ripple",
-    "ripple-lib",
-    "ripple-lib-transactionparser"
+    "aitd",
+    "aitd-lib",
+    "aitd-lib-transactionparser"
   ],
   "dependencies": {
     "bignumber.js": "^9.0.0",
