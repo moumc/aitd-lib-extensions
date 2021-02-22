@@ -1,6 +1,6 @@
 {
   "name": "aitd-lib-transactionparser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parses transaction objects to a higher-level view",
   "license": "ISC",
   "scripts": {
